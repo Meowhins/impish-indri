@@ -18,13 +18,13 @@ jobs:
         commit_message: update ubuntu base
         commit_options: '--no-verify --signoff'
         repository: .
-        commit_user_name: Angga
-        commit_user_email: angga@linuxmail.org
-        commit_author: Angga <angga@linuxmail.org>
+        commit_user_name: nadinyslaa
+        commit_user_email: asepmlnaaa@gmail.com
+        commit_author: nadinyslaa <asepmlnaaa@gmail.com>
     - name: Build and Publish to Dockerhub
       uses: elgohr/Publish-Docker-Github-Action@master
       with:
-        name: gengkapak/impish
+        name: meowhins/impish
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         tags: latest
