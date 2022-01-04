@@ -18,9 +18,9 @@ jobs:
         commit_message: update ubuntu base
         commit_options: '--no-verify --signoff'
         repository: .
-        commit_user_name: nadinyslaa
+        commit_user_name: nadinsylaa
         commit_user_email: asepmlnaaa@gmail.com
-        commit_author: nadinyslaa <asepmlnaaa@gmail.com>
+        commit_author: nadinsylaa <asepmlnaaa@gmail.com>
     - name: Build and Publish to Dockerhub
       uses: elgohr/Publish-Docker-Github-Action@master
       with:
