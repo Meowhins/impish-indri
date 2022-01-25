@@ -1,5 +1,5 @@
-be82bc40df2d77b023af633ee195c796 *ubuntu-impish-core-cloudimg-amd64-root.tar.gz
-a3aca2183bc8cb6297db3545b8dc3cb2 *ubuntu-impish-core-cloudimg-arm64-root.tar.gz
-e69cb7e85a48df4f21e7e7f021b284ec *ubuntu-impish-core-cloudimg-armhf-root.tar.gz
-290fe2950ffcf5f14640e5e67a24b664 *ubuntu-impish-core-cloudimg-ppc64el-root.tar.gz
-2ca35f273a1486ee23510572ed5e034c *ubuntu-impish-core-cloudimg-s390x-root.tar.gz
+0302b189765cbc5ad5314e146c8d8d8c *ubuntu-impish-core-cloudimg-amd64-root.tar.gz
+2099605d859edbc30b70efde676f48a4 *ubuntu-impish-core-cloudimg-arm64-root.tar.gz
+efb31f8afa0d93944e1a78d85013ba75 *ubuntu-impish-core-cloudimg-armhf-root.tar.gz
+4c30a601e22268a9bd6e86041bb4c51e *ubuntu-impish-core-cloudimg-ppc64el-root.tar.gz
+f41d85cbcd831433191d4d819ee0bb5a *ubuntu-impish-core-cloudimg-s390x-root.tar.gz
