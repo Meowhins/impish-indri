@@ -66,7 +66,7 @@ libseccomp2:amd64	2.5.1-1ubuntu1
 libselinux1:amd64	3.1-3build2
 libsemanage-common	3.1-1ubuntu2
 libsemanage1:amd64	3.1-1ubuntu2
-libsepol1:amd64	3.1-1ubuntu2
+libsepol1:amd64	3.1-1ubuntu2.1
 libsmartcols1:amd64	2.36.1-8ubuntu2.2
 libss2:amd64	1.46.3-1ubuntu3
 libssl1.1:amd64	1.1.1l-1ubuntu1.2
